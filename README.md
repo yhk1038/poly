@@ -1,8 +1,10 @@
 # Poly
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/poly`. To experiment with that code, run `bin/console` for an interactive prompt.
+ActiveRecord 다형성 관계를 위한 추상 모델 구현체입니다.  
+Abstract Model Implementation for ActiveRecord Polymorphic Relationship.
 
-TODO: Delete this and the text above, and describe your gem
+ActiveRecord 다형성 관계 모델을 가장 쉽고 빠르게 구현하기 위한 추상 모델입니다. ActiveStorage로부터 영감을 받아 만들어졌습니다.  
+Abstract model for the easiest and fastest implementation of an ActiveRecord polymorphic relationship model. Inspired by ActiveStorage.
 
 ## Installation
 
@@ -32,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/poly. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/yhk1038/poly. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
@@ -40,4 +42,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Poly project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/poly/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Poly project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/yhk1038/poly/blob/master/CODE_OF_CONDUCT.md).
